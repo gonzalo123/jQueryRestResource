@@ -1,4 +1,4 @@
-Example of angularjs application using resources and Silex for the backend
+jQuery example to consume REST resources
 
 Install vendors:
 
